@@ -30,5 +30,4 @@ function rot13(str) {
   }
    return newArr.join(' ');
 }
-
 document.getElementById("output").innerHTML = rot13("GUR DHVPX OEBJA QBT WHZCRQ BIRE GUR YNML SBK?!");
